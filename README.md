@@ -7,11 +7,11 @@ How it works: The user is asked to enter in a sentence, and then the program con
 
 For example, a sentence of "this is a really cool program" will generate:
 
-"
-Here are your letters without repeats.
-THISARELYCOPGM
-And these are the letters that are unique (only show up once).
-THEYCPGM
+"<br>
+Here are your letters without repeats.<br>
+THISARELYCOPGM<br>
+And these are the letters that are unique (only show up once).<br>
+THEYCPGM<br>
 "
 
 The user will then be prompted as to whether or not they'd like to enter another. The program loops unless the user enters 'n' for no.
