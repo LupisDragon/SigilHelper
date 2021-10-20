@@ -6,6 +6,7 @@ How it works: The user is asked to enter in a sentence, and then the program con
 2) A list of all the letters that only show up once.
 
 For example, a sentence of "this is a really cool program" will generate:
+
 "
 Here are your letters without repeats.
 THISARELYCOPGM
